@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LostPhoneFinder</string>
+    <string name="play_sound">Play Sound</string>
+    <string name="send_location">Send Location</string>
+    <string name="find_my_phone">Find My Phone</string>
+    <string name="enable_device_admin">Enable Device Admin</string>
+    <string name="play_sound1">Play Sound1</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="send_live_location">Send Live Location</string>
+</resources>
